@@ -2,7 +2,7 @@
 
 [![license](https://img.shields.io/badge/license-GPL--3.0-red.svg)](https://github.com/juchengquan/project_lilium/blob/main/LICENSE)
 
-A simple Python parser to translate [Qualtrics Text iQ](https://www.qualtrics.com/au/iq/text-iq/) queries into logic representations in JSON.
+A simple Python parser to translate [Qualtrics Text iQ](https://www.qualtrics.com/au/iq/text-iq/) queries into regex logic representations in JSON.
 
 ## Usage
 
